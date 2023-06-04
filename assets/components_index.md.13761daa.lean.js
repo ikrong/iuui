@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,V as o}from"./chunks/framework.77ed7a9d.js";const _=JSON.parse('{"title":"组件导航","description":"","frontmatter":{},"headers":[],"relativePath":"components/index.md"}'),i={name:"components/index.md"},l=o("",11),r=[l];function n(h,s,u,c,m,d){return e(),t("div",null,r)}const f=a(i,[["render",n]]);export{_ as __pageData,f as default};
